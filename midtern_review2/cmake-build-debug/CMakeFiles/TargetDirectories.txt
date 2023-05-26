@@ -1,0 +1,3 @@
+/Users/yumengzhang/CLionProjects/midtern_review2/cmake-build-debug/CMakeFiles/midtern_review2.dir
+/Users/yumengzhang/CLionProjects/midtern_review2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yumengzhang/CLionProjects/midtern_review2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

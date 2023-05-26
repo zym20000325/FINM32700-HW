@@ -1,0 +1,3 @@
+/Users/yumengzhang/CLionProjects/Quiz/cmake-build-debug/CMakeFiles/Quiz.dir
+/Users/yumengzhang/CLionProjects/Quiz/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yumengzhang/CLionProjects/Quiz/cmake-build-debug/CMakeFiles/rebuild_cache.dir
